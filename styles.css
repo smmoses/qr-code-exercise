@@ -48,7 +48,7 @@ h1 {
     font-weight: 700;
 }
 
-@media (min-width: 420px ) {
+@media (min-width: 425px ) {
     img {
         width: 250px;
        
